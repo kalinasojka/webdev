@@ -11,7 +11,7 @@ body {
 }
 
 h1 {
-  color: green;
+  color: #3F6985;
   font-size: 175%;
   text-align: center;
   margin: 3%;
@@ -37,25 +37,25 @@ font-size: 125%;
 
 #b1 {
   color: black;
-  background-color: skyblue;
+  background-color: #AAD4D5;
 }
 #b2 {
   color: black;
-  background-color: lightcoral;
+  background-color: #DFEC6F;
 }
 #b3 {
   color: black;
-  background-color: olive;
+  background-color: #DBC9EC;
 }
 
 .row > div {
-  background-color: lightslategrey;
+  background-color: #D6D6D6;
 }
 
 ol {
   margin: 17px;
   margin-top: 27px;
-  background-color: yellow;
+  margin-right: 0;
   padding: 0;
   padding-left: 17px;
 }
