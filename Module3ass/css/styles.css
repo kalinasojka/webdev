@@ -1,0 +1,65 @@
+body {
+	background-color: lightblue;
+	font-family: 'Zen Loop', cursive;
+	font-size: 24px;
+}
+
+/*HEADER*/
+
+#header-nav {
+	background-color: lightgrey;
+	border-radius: 0;
+	border: 0;	
+}
+
+.navbar-brand {
+	height: 100px;
+}
+/** remove the underline when hovering over a link: **/
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
+}
+
+.navbar-brand  h1 {
+	color: black;
+	font-size: 60px;
+}
+
+#nav-list {
+	margin-bottom: 0;
+}
+
+#nav-list a {
+	text-align: center;
+	background-color: Azure;
+}
+#nav-list a:hover {
+  background: #E7E7E7;
+}
+/*button*/
+button.navbar-toggle {
+	background-color: transparent;
+
+}
+
+.icon-bar {
+	background-color: black;
+
+}
+
+/*MAIN BODY*/
+
+/*i don't know how to choose all 3 classes so fix it*/
+.col-xs-12 div {
+	border: 0;
+	background-color: lightgrey;
+	margin: 30px;
+	padding: 15px;
+	box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.col-xs-12 h2 {
+	text-align: center;
+	font-size: 34px;
+	font-weight: bold;
+}
