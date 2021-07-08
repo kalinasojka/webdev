@@ -66,3 +66,7 @@ button.navbar-toggle {
 	font-size: 34px;
 	font-weight: bold;
 }
+
+.col-xs-12 p {
+	text-align: justify;
+}
