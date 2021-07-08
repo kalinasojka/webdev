@@ -33,22 +33,25 @@ body {
 	text-align: center;
 	background-color: Azure;
 }
+
 #nav-list a:hover {
   background: #E7E7E7;
 }
+
 /*button*/
 button.navbar-toggle {
 	background-color: transparent;
-
 }
 
 .icon-bar {
 	background-color: black;
-
 }
 
 /*MAIN BODY*/
 
+.text-center{
+	font-size: 50px;
+}
 /*i don't know how to choose all 3 classes so fix it*/
 .col-xs-12 div {
 	border: 0;
